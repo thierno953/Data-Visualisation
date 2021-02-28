@@ -8,5 +8,4 @@
 ##### He asks me to make him richer, more interactive, more ... sexy.
   ### The objective:
   ##### is to insert a graphic above each table, transform the tables into JSON after putting them in API in addition to calling them in AJAX.
-
-[Link to the page](https://thierno953.github.io/Data-Visualisation)
+[link to the page](https://thierno953.github.io/Data-Visualisation)
